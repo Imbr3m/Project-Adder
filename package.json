@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://imbr3m.github.io/Project-Adder",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
